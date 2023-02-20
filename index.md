@@ -1,4 +1,13 @@
 <html>
+	
+	---
+title: Bulma Clean Theme
+subtitle: This is the demo site for Bulma Clean Theme
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
+	
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
